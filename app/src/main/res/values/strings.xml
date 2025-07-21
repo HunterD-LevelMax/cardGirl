@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">Girl and Comics</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="title_app">Girls Games and Comics</string>
+    <string name="twin_finder">Twin finder</string>
+    <string name="play">Play Card</string>
+
+    <string name="records">Records</string>
+    <string name="exit">Exit</string>
+    <string name="new_game">New game</string>
+    <string name="restart_game">Restart</string>
+    <string name="count">0</string>
+    <string name="count_match">Count swipes: </string>
+    <string name="game_end">Win!</string>
+    <string name="my_count">Swipes cards: </string>
+    <string name="my_time">My best time: </string>
+    <string name="music">music</string>
+    <string name="settings">Settings</string>
+    <string name="sound">Sound</string>
+    <string name="sound_off">off</string>
+    <string name="sound_on">on</string>
+    <string name="turn_off_on_music">Turn off/on music</string>
+    <string name="time">Time</string>
+    <string name="loading">Loading..</string>
+    <string name="romantic_comics_about_love">Romantic comics about love</string>
+    <string name="read">Read</string>
+    <string name="main_page">Main Page</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="restart">Restart</string>
+
+
+    <string name="summer_1">Summer day on the beach. Sea, sun, white sand. The main character, Irina, sits on a beach towel and reads a book while her friends play volleyball.)</string>
+    <string name="summer_2">What a beautiful day! Sun, sea… Everything is perfect for relaxation.</string>
+    <string name="summer_3">A guy named Maxim, who surfs, appears on the beach. He comes ashore, pulling out his board, and is noticeably tired.</string>
+    <string name="summer_4">Well, time to take a break.</string>
+    <string name="summer_5">Maxim notices Irina and decides to approach her. He takes out a bottle of water and sits down next to her.)</string>
+    <string name="summer_6">Hi! How is your day going?</string>
+    <string name="summer_7"> Hi! Great. How are you?</string>
+    <string name="summer_8">Maxim and Irina start a conversation. They discuss their favorite places on the beach, their hobbies, and their plans for the summer. Irina discovers that they have a lot in common.</string>
+    <string name="summer_9">You know, I\'ve always dreamed of spending the summer by the sea.</string>
+    <string name="summer_10">And now everything has become even better because I met you.</string>
+    <string name="summer_11">And I\'m glad it happened that way. These moments are the most valuable.</string>
+    <string name="summer_12">Irina and Maxim are sitting by a fire lit by local beach residents. They enjoy the warmth of the fire, discussing their dreams and plans for the future.</string>
+    <string name="menu">Menu</string>
+
+
+    <string name="heart_1">A street musician plays guitar in the park. The main character, Marina, sits on a bench and reads a book.</string>
+    <string name="heart_2">What a pleasant sound. Perhaps it\'s time to rest a little.</string>
+    <string name="heart_3">Marina looks up and sees the musician begin to play a melody that touches her deeply. She decides to come closer.</string>
+    <string name="heart_4">Up close, Marina notices that the musician is a young man named Dmitry, with mischievous eyes and a sincere expression.</string>
+    <string name="heart_5">Sorry, but your music is incredible. What song is this?</string>
+    <string name="heart_6">This is my own composition. I\'m glad you liked it.</string>
+    <string name="heart_7">Marina and Dmitry start a conversation. He talks about his musical interests, and she shares hers. They discover they have a lot in common.</string>
+    <string name="heart_8">I want to dedicate my love to you, you are a very nice and beautiful girl</string>
+    <string name="heart_9">Thank you for letting me be a part of your musical world.</string>
+    <string name="heart_10">night time, where Marina and Dmitry sit on a bench under the stars, playing the kalimba together. The music of their hearts connects them, creating a beautiful symphony</string>
+
+    <string name="secret_1">Bookstore. The main character, Lena, enters the store and walks down the aisles. On the shelf, she notices an antique pocket watch with an engraving.</string>
+    <string name="secret_2">What an interesting specimen…"</string>
+    <string name="secret_3">Lena picks up the watch and it starts to flicker. Suddenly she finds herself in another time and place - in the middle of the 19th century.</string>
+    <string name="secret_4">Where am I?</string>
+    <string name="secret_5">Lena runs into a young man in old-fashioned clothes, Alexey. He looks at her with surprise.</string>
+    <string name="secret_6">You are not from here. How did you end up here?</string>
+    <string name="secret_7">Lena and Alexey start talking. They quickly find a common language and feel like they have known each other for a long time.</string>
+    <string name="secret_8">I\'m not sure how it happened, but I\'m glad I met you.</string>
+    <string name="secret_9">Beautiful Elena, I am also glad that I met you. Let me show you the ball.</string>
+    <string name="secret_10">Woow! Yes</string>
+    <string name="secret_11">They danced and laughed a lot at the ball, and after they spend time together: walking in the park, going to operas, laughing and talking.)</string>
+    <string name="secret_12">It seems like we have a chance to build something special…</string>
+    <string name="secret_13">I need to go back to my time, but I will never forget our meeting.</string>
+    <string name="secret_14">Lena returns to the bookstore, the watch in her hands. She places it on the shelf, but with a smile on her face. The store owner, an older man with a wise look.</string>
+    <string name="secret_15">Lena leaves the store with a new sense of confidence and happiness. She knows that love can be found in the most unexpected places and times.</string>
+    <string name="gallery">Gallery</string>
+    <string name="level">Level</string>
+    <string name="next">Next Level</string>
+    <string name="music_button">Off music</string>
+    <string name="girl_from_level_3">Girl from Level 3</string>
+    <string name="girl_from_level_2">Girl from Level 2</string>
+    <string name="girl_from_level_1">Girl from Level 1</string>
+
+    <string name="url_privacy">https://telegra.ph/Privacy-Policy-09-27-45</string>
+
+</resources>
