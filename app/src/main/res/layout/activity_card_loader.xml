@@ -19,7 +19,7 @@
         <LinearLayout
             android:id="@+id/boxCard"
             android:layout_width="0dp"
-            android:layout_height="50dp"
+            android:layout_height="60dp"
             android:background="@color/blue_darker"
             android:elevation="2dp"
             android:orientation="horizontal"
@@ -31,6 +31,7 @@
                 android:id="@+id/back_card"
                 android:layout_width="40dp"
                 android:layout_height="match_parent"
+                android:layout_marginStart="16dp"
                 android:foregroundGravity="left"
                 android:src="@drawable/baseline_arrow_back_24" />
         </LinearLayout>
